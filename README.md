@@ -11,8 +11,10 @@
      - Many employers use Github, so if Alice is looking for a job she'll look good for already knowing how to use Github.
 
   4.	Describe the difference between “Git” and “Github”?
-       - Github runs on Git. Git is the main version-control system that Github runs on.
 
-5.	Describe one situation where Alice and Bob would want to work on a separate branch instead of the default branch (a.k.a. the “main” or “trunk”).
-  - They would want to work on a separate branch becasue they can make changes to their code and then add it to the "main".
+    	- Github runs on Git. Git is the main version-control system that Github runs on.
+
+6.	Describe one situation where Alice and Bob would want to work on a separate branch instead of the default branch (a.k.a. the “main” or “trunk”).
+  
+       - They would want to work on a separate branch becasue they can make changes to their code and then add it to the "main".
     	
